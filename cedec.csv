@@ -1,173 +1,232 @@
-家庭用ゲーム開発におけるゲームエディタの基礎設計と、安定かつ高速なアセット管理について,/多田航/,公募/ENG/PRD/中辛/QA/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c6542b7f0d86
-DirectXRaytracingを用いたライトベイカーの実装について,/多田航/,公募/ENG/辛口/レンダリング/□講演形式:ショートセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c77a9646f7d3
-スマホゲームにおけるPhotoshopとSubstancePainterによるテクスチャ制作/整理術と今後,/中嶋　晃也/,公募/VA/中辛/QA/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c6f4409315a1
-大規模モバイルゲーム運用におけるマスタデータ管理事例,/人西聖樹/,公募/PRD/辛口/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c7f93801888e
-情感まで写し取る楽譜転写エンジンの開発とゲームへの応用法,/増野宏之/,公募/SND/ENG/辛口/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c53dc5d4a27b
-ポータルAR/VRアプリケーションに真のリアリティをもたらす、クロノスのオープンスタンダードAPI:「OpenXR」、「Vulkan」,/ニール・トレベット/大渕栄作/,公募/ENG/中辛/xR/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca16260dfc4e
-レイ・トレーシングのデータ構造を極める！,/大垣　真二/,公募/ENG/激辛/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c63bce679db2
-印象的なVRストーリーを作るにはユーザーエンゲージメントを最大限にせよ:「結婚指輪物語VR」からのテクニック,/曹　家栄/,公募/VA/辛口/xR/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca156d261162
-モバイルゲームのテスト経過を動画にしたらわかりやすくなった,/平岡忠志/,公募/ENG/PRD/辛口/QA/□講演形式:ショートセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca15b87235e7
-「シェーダーでかんたんにわかる！」DirectXリアルタイムレイトレーシング入門,/鈴木克史/,公募/ENG/甘口/レンダリング/□講演形式:ショートセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca1602cd1ab5
-ブロックチェーンゲーム開発と運用、ブロックチェーンゲーム開発とソーシャルゲーム開発の違い。クリプトダービーの事例,/竹村也哉/,公募/ENG/GD/BP/辛口/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c848c9e569b1
-ゲームの開発/運営に必要なQAとは～QAの本質・課題・未来について語る～,/堀米賢/小林依光/福永裕幸/佐野あゆみ/,公募/PRD/中辛/QA/□講演形式:パネルディスカッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c8b094403b6b
-特許出願およびオンライン雑誌記事からみる電子ゲーム技術開発動向　～特許出願の動向から見る日本の強みと弱み～,/上田　泰/,招待/BP/ENG/中辛/□講演形式:レギュラーセッション/□資料公開:予定なし,https://cedec.cesa.or.jp/2019/session/detail/s5c889b85ed3c1
-ワーママ・ワーパパたちの働き方と悩み／御社の悩みは何ですか？他社はどう解決しているの？,/茂呂真由美/鈴木こずえ/,公募/BP/PRD/甘口/□講演形式:ラウンドテーブル/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c865fd25a6fb
-アニメーション制作に役立つ中国武術のバトルモーション,/元梅　幸司/小山　雅晃/山本　智人/,公募/VA/中辛/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c860c1a8a263
-自動車業界とゲーム業界技術の融合,/小口貴弘/服部陽介/,招待/BP/ENG/中辛/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cb80dea61ee3
-深層学習がもたらす映像創作支援のための研究イノベーション,/森島繁生/,招待/AC/ENG/甘口/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cd20c58862b6
-カルチャードリブンな組織作り〜戦略的に心理的安全性を高める方法〜,/根岸慶/,招待/PRD/甘口/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cb816b1763b2
-劇伴における提案型作曲術,/多田彰文/水口盛道/,招待/SND/甘口/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cb8343243686
-【対談】一流クリエイターに聞く、魅力的なキャラクターを生み出す秘訣とは！？,/鈴木みそ/塗和也/石渡太輔/,招待/VA/甘口/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cb9416f6c3fd
-アニメやゲーム作品におけるGUIデザイン（モニターグラフィックス）のお仕事とは,/吉﨑響/鈴木陽太/,招待/VA/甘口/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cb947654a739
-組織にテストを書く文化を根付かせる戦略と戦術,/和田卓人/,招待/PRD/辛口/QA/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cb96df94c684
-自動運転時代の新たなモビリティーサービスへの挑戦,/左向貴代/,招待/ENG/甘口/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cbd78e09c660
-アナログゲームの制作に見る、ゲームの面白さとは,/カナイセイジ/菅沼正夫/林尚志/,招待/GD/甘口/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cbec2c42b81a
-超人スポーツ：超人を創る・超人として遊ぶ,/稲見昌彦/,招待/AC/甘口/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ccc2212c2780
-[AES(AudioEngineeringSociety)×CEDECコラボセッション]イマーシブオーディオ,/濱﨑公男/染谷和孝/岸智也/,団体招待/SND/甘口/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cd29441ce683
-ファンベース　〜これからの時代になぜファンベースが重要か,/佐藤尚之/,招待/BP/甘口/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cbb3b816ac0c
-DirectX12を使用したシェーダー上への独自ニューラルネットワーク構築と描画品質向上のためのリアルタイムレンダリングへの応用,/増野　健人/,公募/ENG/辛口/AI/レンダリング/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c906cc0259d8
-フォトグラメトリーとプロシージャルを用いた最新ハイエンドゲーム3DCG背景制作手法～ハイエンドゲーム開発の経験がない会社がいかにしてそれらを生み出したか～,/吉冨直隆/,公募/VA/中辛/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c90bc97ca347
-Shadowverse流開発手法～QAコスト削減と堅牢性強化を実現するプランナーによるテスト駆動開発～,/柴田有輝/鄒一舟/,公募/PRD/ENG/辛口/QA/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c904de8993a9
-ロマサガRSをどのようにクイックにスケールさせたか〜ElixirAmazonECS等の技術要素を交えて〜,/島崎清山/,公募/ENG/辛口/サーバー/□講演形式:ショートセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c90a59eb5ea7
-個性的で魅力的なモンスターを量産するためのデザインの秘訣と開発手法紹介～プリンセスコネクト！Re:Diveにおけるモンスターデザイン制作事例～,/野西　正武/高泰俊/,公募/VA/GD/甘口/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c90c0e1e6cdf
-スマホゲームリリース時に絶対サーバを落とさないための負荷試験,/伊藤英知/,公募/ENG/中辛/サーバー/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c942b8e1ee5c
-物理ベース？アート指向？～尤もらしさと自由度を両立するレンズフレア表現～,/川瀬　正樹/,公募/ENG/VA/辛口/レンダリング/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c8f593404a6b
-「強い」を作るだけが能じゃない！ディープラーニングで3Dアクションゲームの敵AIを作ってみた,/上段達弘/,公募/ENG/GD/甘口/AI/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c8f2a755dbc1
-「現場最優先のススメ」～最高の開発環境を生み出す情報システム部門の在り方～,/平内義彦/,公募/BP/中辛/□講演形式:ショートセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c8f65bb36394
-スクラムチームでモブプロ！-立ちはだかる導入・運用の壁とその成果-,/横島太志/,公募/PRD/中辛/□講演形式:ショートセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c8f2a3ba68a6
-StreaminginTheDivision2／「ディビジョン2」のストリーミング,/カール・ヨハン・カーイェ・レジャース/,海外招待/ENG/辛口/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cdcd57e48720
-MakingToolsforBigGames–Acasestudy／規模の大きいゲーム用にツールを作る-ケーススタディ,/ミキエル・ヴァン・ダー・レオ/,海外招待/ENG/PRD/辛口/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cdcd90cf2413
-パネルセッション：【VideoGameTechnologyintheWest:ThePanel】,/ジュリアン・マーセロン/ミキエル・ヴァン・ダー・レオ/カール・ヨハン・カーイェ・レジャース/ロン・ピケット/ジャック・ケルナー/ジェローム・リアー/,海外招待/ENG/辛口/□講演形式:パネルディスカッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cdcdf5f24ba8
-パネルセッション：【VideoGameDevelopmentintheWest:ThePanel】,/ジュリアン・マーセロン/ミキエル・ヴァン・ダー・レオ/ロン・ピケット/リンダ・ファン/ラナ・バシャンスキー/ディラン・カスバート/,海外招待/ENG/辛口/□講演形式:パネルディスカッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cdcdfeeb3291
-AI「りんな」のボイストレーニング,/坪井一菜/沢田慶/AIりんな/,招待/SND/ENG/甘口/AI/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cd911d9d3376
-現代の子供たちが「勉強をゲームのように楽しくできる」未来へ,/鈴木優伯/,招待/GD/BP/甘口/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cda2324b504d
-[JANOG×CEDECコラボセッション]ネットワーク事業者と語るインターネットのゲーム通信,/川上雄也/伊藤良哉/中川あきら/佐藤元彦/,団体招待/ENG/中辛/□講演形式:パネルディスカッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cd41730206fa
-こっそり教えます！エフェクトデザインのイ・ロ・ハ,/池田　博幸/,公募/VA/甘口/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9874276edbb
-AAAタイトル開発における、ハイエンドオーディオ制作技術の研究成果と取り組み事例,/牧村亮治/安井裕一/久保早瑠菜/,公募/SND/辛口/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c983c37007bf
-大規模開発のためのLUMINOUSENGINEのログ分析と自動テスト,/岩崎浩/,公募/PRD/ENG/辛口/サーバー/QA/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c997640a2932
-AWSマネージドサービスによるアーケード向けログ収集基盤のサーバレス化～設計・開発から移行まで～,/青木哲郎/,公募/ENG/中辛/サーバー/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c99aab98f733
-プリンセスコネクト！Re:Dive運用事例～リリースの高頻度化と安定化を両立させるプリコネRの運用体制～,/冨田康之/,公募/PRD/ENG/中辛/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c947b2f8e183
-Shadowverseのeスポーツ展開-ゲームがつなぐコミュニティと地域活性化について-,/松本竜也/,公募/BP/中辛/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c982d8ab6c09
-玄人向けAndroid/iOS対応エンジン開発レポート,/佐野　豊/,公募/ENG/激辛/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9877b2970eb
-機械学習ベースの自動プレイエージェントを用いたバランス設計効率化の追求,/福沢嘉琳/森田想平/,公募/PRD/GD/中辛/AI/QA/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c989964626e1
-ニューラルネットワークを用いた音声信号によるリップシンク（口パク生成）技術,/押見正雄/飯島健太/上田賢次郎/,公募/SND/ENG/中辛/AI/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c99c80682572
-AIは自分でボードゲームの勝ち方を見つけられるか？,/森川幸人/,公募/GD/中辛/AI/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c99018b7ac24
-GameServerServicesではじめるサーバー開発運用しないゲーム開発,/丹羽一智/,スポンサー/ENG/中辛/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce3a89f2da87
-AroundtheWorldinYourPajamas:TheArtofRunningaVirtualGameStudio／パジャマのままで世界中へ:バーチャルゲームスタジオ運営の技術,/クリストファー・ナツウメ/,公募/BP/辛口/□講演形式:ショートセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c997a5b634ef
-プロダクションラウンドテーブル2019,/田口昌宏/今給黎隆/森田和則/,公募/PRD/甘口/□講演形式:ラウンドテーブル/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9449d7f3695
-感情を揺さぶるメタAI～ゲームへの実装方法とバランス調整への応用事例～,/里井大輝/,公募/ENG/GD/甘口/AI/QA/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c986cec55f60
-グランサイファーライド制作事例〜体験型アトラクションはオブジェクトベースのマルチチャンネル音響で攻略せよ！〜,/屋敷貴道/丸山雅之/澤田弘基/,公募/SND/中辛/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c98351b2d63b
-ルミナス・エンジンへのリアルタイムレイトレーシング実装事例の紹介,/竹重雅也/荒牧岳志/,スポンサー/ENG/PRD/中辛/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce39bf17ac37
-UE4でマルチプレイヤーゲームを作ろう,/鈴木　孝司/,スポンサー/ENG/中辛/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce39c64c1ca2
-「PressButtonDrink(French)Coffee」UE4におけるビルドパイプラインとメンテナンスの全体像,/アクセル　リファール/,スポンサー/ENG/PRD/中辛/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce39c8f82904
-SEKIRO:SHADOWSDIETWICEとDéracinéにおけるBinkビデオとOodleデータ圧縮の導入事例,/瀧田航一朗/阿部剛寿/,スポンサー/ENG/PRD/甘口/□講演形式:ショートセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce39d564f6cf
-PlayCanvasで3D空間を使った簡単webサイトを作ってみる,/城戸雄大/,スポンサー/ENG/甘口/□講演形式:ワークショップ/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce3a71c1688f
-DefenseofUnityGames,/長尾豊/,スポンサー/ENG/中辛/□講演形式:ショートセッション/□資料公開:予定なし,https://cedec.cesa.or.jp/2019/session/detail/s5ce3a7897507e
-『大乱闘スマッシュブラザーズSPECIAL』～お借りしたIPをできるだけ綺麗に描くために,/岩永欣仁/鈴木雅幸/,公募/ENG/VA/辛口/レンダリング/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c99cd36e5d17
-『大乱闘スマッシュブラザーズSPECIAL』～3Dグラフィックスの絵作り,/池沢宇功/谷口幸宏/中村義朗/,公募/VA/甘口/レンダリング/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9a0584cb33d
-『大乱闘スマッシュブラザーズSPECIAL』～膨大なアセットのビルド時間＆容量との戦い,/中村彰宏/南相培/,公募/ENG/PRD/中辛/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9b0f38387a7
-ゲームと機械学習の最前線　〜現状と未来を正しく捉えるために〜,/奥村純/三宅陽一郎/長谷洋平/,公募/ENG/BP/AC/中辛/AI/□講演形式:パネルディスカッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9b199a29c68
-カービィチームの開発力を最大化せよ！―内製フレームワークで大事にしたこと―,/中野宏晃/鶴岡友和/野下徹也/,公募/ENG/PRD/中辛/QA/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9b1c86cc35f
-『大乱闘スマッシュブラザーズSPECIAL』～大規模開発を支えた開発環境の整備と運用,/篠崎旭/中村彰宏/南相培/,公募/PRD/ENG/中辛/QA/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9b5851a5fe3
-『大乱闘スマッシュブラザーズSPECIAL』～サウンド開発における「膨大な物量vsスペシャルクォリティ」,/中鶴　潤一/,公募/SND/甘口/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9b67249de46
-図・数式・シェーダプログラムで実現するプロジェクションマッピング～「屋内・冒険の島ドコドコ」の事例～,/石井源久/,公募/ENG/AC/辛口/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9b433008245
-毎週リリースするスマホ向けコンテンツにおける回帰テストの自動化と、テスト結果の可視化を含むテストワークフローの提案,/狩野真次/,公募/PRD/ENG/甘口/QA/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9a0c2a0215f
-あなたのモバイルゲーム開発の最適化時間を数ヶ月節約する方法,/張鑫/,公募/ENG/辛口/QA/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9acadae9e7d
-アナザーエデン/日本でコンテンツ開発を継続しつつ、海外でリリースするためにしてきたこと,/西田綾佑/長谷川彦/,公募/BP/甘口/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9ae6aaa5783
-物理マシンでのアセットビルドをやめてみた〜クラウド化の具体的事例と現実的手法〜,/梅木隼/西田綾佑/,公募/PRD/中辛/□講演形式:ショートセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9b36b80844a
-ゲーム開発におけるOSSライセンス管理の実際(パネルディスカッション),/吉井雅人/樽見俊明/山中勇毅/忍頂寺毅/森昌二/,公募/BP/ENG/辛口/□講演形式:パネルディスカッション/□資料公開:予定なし,https://cedec.cesa.or.jp/2019/session/detail/s5c9ae4b13c986
-トランスメディアストーリーテリングから学ぶ「ゲームで物語る」手法2019,/石川淳一/,公募/GD/BP/中辛/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9af13996aeb
-ディープラーニングによる画像処理を実機側で高速に動かし、活用する技術,/竹村　伸太郎/,公募/ENG/AC/中辛/AI/□講演形式:ショートセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9a015dea39f
-リアルとバーチャルの融合がもたらす未来の乗車体験のビジョン／実験／考察,/原　真人/上田　哲郎/,公募/ENG/AC/甘口/xR/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9ad0032980b
-SQLライクなUnixパイプライン構文でデータ分析ができるSplunkを体験,/横田聡CISSP/,スポンサー/ENG/甘口/□講演形式:ワークショップ/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce3b5740800d
-[芸術科学会(NICOGRAPH)×CEDECコラボセッション]サウンド×AI×ゲーム,/伊藤彰教/伊藤貴之/江渡浩一郎/三宅陽一郎/,団体招待/ENG/SND/甘口/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce5f539ba259
-生データのままで。リアルタイムに分析するならSplunk,/横田聡CISSP/,スポンサー/ENG/甘口/□講演形式:ショートセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce3b52f998f0
-Android向けUnity製ゲーム最適化のためのCI/CDと連携した自動プロファイリングシステム,/細田翔/於保俊/塙与志夫/,公募/ENG/中辛/QA/□講演形式:ショートセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9cb02154338
-エースコンバット7における”空の革新”について,/菅野　昌人/,公募/VA/GD/中辛/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9cb6579df11
-FFXIVコンテンツ製作を支える表データ管理システム　–NEX–,/吉田　和人/,公募/ENG/辛口/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9c20c172451
-PS4で最大16灯影付きライティング+フルHD(or4K)+60FPS+HDRを実現するまで,/山口裕也/,公募/ENG/中辛/レンダリング/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9c2e29b4f46
-『TalesofARISE』におけるレンダリング技術と高速化,/小林弘幸/,公募/ENG/VA/辛口/レンダリング/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9c5bc2d3123
-フラスタムカリング入門、良いフラスタムの作り方,/本多　圭/,公募/ENG/中辛/□講演形式:チュートリアル/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9c74958b4fa
-『ASTROBOT:RESCUEMISSION』の心地よいキャラクター操作とVRインタラクション,/吉田匠/,公募/ENG/GD/中辛/xR/□講演形式:ショートセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9cad94d447f
-リアルタイムレイトレーシングの導入と最適化事例,/川名勇気/,公募/ENG/辛口/レンダリング/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9d78b0e6f2b
-コミュニティのためのゲームづくり～2020年、ポストソーシャルゲーム時代の未来予想図～,/香城卓/,公募/BP/GD/辛口/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9b73f498400
-プロシージャルゲームコンテンツ制作ブートキャンプ2019Part2機械学習,/多喜建一/岸川貴紀/堀川淳一郎/,公募/VA/ENG/PRD/中辛/AI/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9c3c8c9a39d
-音声認識技術を用いたボイス作業時短術,/砂押　知宏/シディークサジャード/,公募/SND/ENG/中辛/AI/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9c623fc46b5
-次世代を見据えた新しい補助骨システムの開発,/佐々木　隆典/高木　啓太/,公募/ENG/VA/中辛/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9c97cedc6f9
-プロシージャルゲームコンテンツ制作ブートキャンプ2019Part1バリエーション生成,/多喜建一/齋藤彰/山部道義/永友瑛里子/,公募/VA/PRD/中辛/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9c3b18b187c
-非サウンド系ツールから攻める！サウンド業務効率化の方法,/金井　琢真/蛭子　一郎/,公募/SND/中辛/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9c4126901e9
-「宇宙x教育xVR＝ちゃんと学べる体感サイエンスツアー「ありえなLAB」の挑戦,/渡邉賢/原田考多/白井暁彦/,公募/BP/中辛/xR/□講演形式:ショートセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9c660d3c16c
-KeeponMoving–ProcessAgilityatBungie／動き続ける-Bungieにおけるプロセスアジャイル,/リンダ・ファン/,海外招待/PRD/辛口/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ceb77b96361c
-BurstingattheSeams-AnimatingCharactersinBlizzardEntertainment’sHeroesoftheStorm／BlizzardEntertainmentの「HeroesoftheStorm」で、「盛りだくさんの」キャラクターたちをアニメイトする,/ラナ・バシャンスキー/,海外招待/ENG/VA/辛口/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cecf427d7bd0
-Editingwithimmutabledata／データを変えない編集,/ロン・ピケット/,海外招待/ENG/辛口/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cecf49d1070d
-JustCause4:PhysicsPostmortem／ジャストコーズ4:物理ポストモーテム,/ジャック・ケルナー/,海外招待/ENG/激辛/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cecf4cec3b5a
-『禍つヴァールハイト』モバイルにおけるプレイヤー最大100体同時表示可能なグラフィックス最適化について,/田中　康夫/,公募/ENG/PRD/中辛/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9dba3955899
-『ASTROBOT:RESCUEMSSION』の驚きと心地よさを作るVRレベルデザイン,/森田　玄人/,公募/GD/中辛/xR/□講演形式:ショートセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9d81f9887bf
-プロシージャルオーディオのゲーム効果音への活用,/ニコラスフールネル/,公募/SND/辛口/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9da88f37bfc
-沢山集まれ文殊の知恵！フォーリー収録・活用座談会,/北村　一樹/金子　智充/渡辺　寛志/進藤美咲/照田明弘/谷口広紀/,公募/SND/甘口/□講演形式:パネルディスカッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9dde8c8465d
-世界のブロックチェーンゲームの動向と第３世代ブロックチェーンを利用したゲーム開発,/和田　隆夫/石田　陽之/,公募/BP/中辛/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9d7e7be3f60
-LAMPで構成されたモバイルゲームのバックエンドのKubernetesへの移行事例,/泊　久信/中村裕也/,公募/ENG/中辛/サーバー/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9d8a72633ab
-現実が主役！未来のリアルワールドエンターテインメントにむけた挑戦,/本山　博文/岩田永司/,公募/GD/ENG/中辛/xR/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9da3199fbf5
-モバイルゲームのテキスト作成術～シナリオ外のテキストで魅せるには？～,/坂本正吾/,公募/GD/甘口/□講演形式:レギュラーセッション/□資料公開:予定なし,https://cedec.cesa.or.jp/2019/session/detail/s5c9dbbb8dba2d
-ブラックボックステストの自動化による、高品質なテストの実現と自動化部隊の育成,/赤﨑光/奥泉卓也/,公募/PRD/中辛/QA/□講演形式:ショートセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9de0dfca21a
-感性をAI化！？サウンドデザインへのAI活用法とその未来-SURROUND:AIにおける適用事例-,/藤澤森茂/湯山雄太/,公募/SND/ENG/中辛/AI/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9d84ff15f36
-MeshEffectShape：2Dカートゥーン調デザインから、その魅力のままにアニメーションする3Dエフェクトメッシュを軽量かつ効率良く作る！,/高橋聡/BrentForrest/松成隆正/,公募/VA/中辛/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9d9674182f0
-『逆転オセロニア』における、機械学習モデルを用いたデッキのアーキタイプ抽出とゲーム運用への活用,/安達　涼/岩城惇/,公募/GD/ENG/中辛/AI/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9db47c3aad3
-ハイエンドキャラクターグラフィックスusingLUMINOUSENGINE,/黒坂　一隆/長谷川勇/蓮尾雄介/岸明彦/,公募/VA/ENG/甘口/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9db9bda6233
-その課題，大学と一緒に解決しませんか？～産学連携・共同研究のススメ～,/吉田　則裕/小川秀人/長谷川勇/,公募/BP/AC/甘口/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9d8b102acc2
-PERACON2019,/遠藤雅伸/三上浩司/簗瀬洋平/馬場保仁/沼崎優介/戀津魁/,公募/GD/甘口/□講演形式:CEDECCHALLENGE/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9d878308026
-GamesasaServiceモデルに適応するコンテンツ配信量削減手法と、PlayStation®4における配信量削減実績,/畠山明之/,公募/ENG/辛口/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9d9d4e3ef36
-AIにだって心はある！音声を使ったインタラクションで感情を持ったキャラクターAIと遊ぼう！,/ボエダ　ゴティエ/,公募/ENG/中辛/AI/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9dce8508572
-『描画が出来る人』ってどうやって育てればいいんだろう？～描画エンジニア育成プロジェクトポストモーテム,/奥田雅史/川名勇気/落合仁美子/二階堂将也/,公募/PRD/甘口/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9d8f6232ba1
-エースコンバット7VRが実現したエースパイロット体験のひみつ,/山本治由/夛湖久治/,公募/GD/中辛/xR/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9ded42d38c7
-REALITY「なりたい自分で、生きていく」リアルタイムライブでVTuberが活躍する舞台を作る現場の1年,/渡邊匡志/高橋悠/橋本将宏/安川貴志/白井暁彦/,公募/BP/VA/中辛/xR/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9df84045dd1
-日々の業務から少しずつ始める！TA育成について話すラウンドテーブル,/清水　宣寿/長谷川翔一/脇田卓/佐藤嵐/中村翔/夏見勇矢/髙河原宏貴/,公募/VA/PRD/甘口/□講演形式:ラウンドテーブル/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9e6b8752bba
-GPU最適化：シェーダ実行の高速化手法,/石渡竜也/,公募/ENG/中辛/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9e9e51afd59
-『LEFTALIVE』における地形表現とナビゲーションAI,/長谷川　誠/,公募/ENG/中辛/AI/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9f339a5b28a
-内製レンダリングエンジンにおける採用技術と最適化手法,/森下宏樹/小田垣寛樹/,公募/ENG/辛口/レンダリング/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9f6c908d5b7
-アストロボット、アートの仕事-TheartofASTROBOT:RESCUEMISSION-,/藤井康裕/,公募/VA/中辛/xR/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9f93d548456
-「空」と「物語」を演出するためのインタラクティブサウンドデザイン～エースコンバット7における楽曲と効果音実装/VRについて～,/渡辺量/中西哲一/,公募/SND/中辛/xR/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca0168e91e2b
-PC版特有のQA対応～『MONSTERHUNTER:WORLD』の場合～,/中村敬則/,公募/ENG/PRD/中辛/QA/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9e25073128b
-UnityC#×gRPC×サーバーサイドKotlinによる次世代のサーバー/クライアント通信〜ハイパフォーマンスな通信基盤の開発とMagicOnionによるリアルタイム通信の実現〜,/竹端尚人/河合宜文/,公募/ENG/中辛/サーバー/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9dede391631
-ロイヤルユーザーの伸ばし方〜データ・ドリブンが実現するゲーム長命化の秘訣〜,/梅野真也/,公募/BP/中辛/AI/QA/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9defa043f4f
-ミリシタ運営術！！,/池田早人/保科一成/佐々木克/,公募/PRD/ENG/中辛/サーバー/QA/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9ee5702b83c
-モバイル通信を使わない近接端末間通信対戦のレシピ,/中村太郎/,公募/ENG/中辛/□講演形式:ショートセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9f0a31079af
-芯（シン）・遅延対策2020～ヒトのスペックから紐解かれる、安定性重視とフレームレートのベストプラクティス～,/森口明彦/,公募/AC/ENG/辛口/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9e058adee37
-JupyterNotebookが変える、あなたのチームの運用作業,/長久勝/,公募/ENG/PRD/辛口/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9f1002670d8
-ワークライフバランスを充実させよう！アラフィフエンジニアの皆さんに贈る地域貢献のススメ。,/志磨雅則/,公募/BP/甘口/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9e2df105b7d
-プロマネ～現場がときめく管理の魔法～　職務経験ゼロから始める開発プロセス改善,/星川　浩子/,公募/PRD/甘口/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9f5593247e3
-半年でリリースできる柔軟な動画配信アプリサーバ開発事例,/堀口　真司/鈴木　康士郎/,公募/ENG/辛口/サーバー/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9f86770e398
-ディファードレンダリング上で表現するアニメルックの追求とその手法,/芦塚慧祐/,公募/ENG/VA/辛口/レンダリング/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca0ca2f6762f
-どんな物語にしたいか共有する〜『エースコンバット7』のナラティブ制作手法〜,/鬼頭　雅英/糸見功輔/,公募/GD/中辛/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca0df0aa495a
-WebXRの現状と実社会への応用事例,/諸星一行/,公募/BP/ENG/甘口/xR/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca0e78baa620
-モバイルゲーム開発を効率化する基盤の開発事例を、失敗事例も含めて紹介〜過去5年間で開発した基盤の全て〜,/石黒祐輔/,公募/ENG/PRD/中辛/サーバー/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca0f3b616931
-ゲームUIラウンドテーブル2019,/喜納彬光/荒木竜馬/植田雅生/,公募/VA/中辛/□講演形式:ラウンドテーブル/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca063a17deae
-SINoALICE-シノアリス-それは必死の「サーバー削減」,/覚張泰幸/,公募/ENG/甘口/サーバー/□講演形式:ショートセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca04ea19f15b
-好きなゲームを作ることをあきらめない。スマホインディーの生存戦略。,/佐藤　大悟/,公募/BP/PRD/中辛/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca082784768a
-サービス終了寸前だったタイトルが、CMを使わずにDAUを増やして九死に一生を得たSNSプロモーション術,/ナカムラ　ケンタロウ/,公募/BP/甘口/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca0b7d0e3310
-デジタルマーケターの広告不正（アドフラウド）への向き合い方,/森下明/,公募/BP/辛口/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca0bc6532932
-チームの力でアイデアを絞り込む！メンバーが納得できる最適なアイデアを選ぶだけでなく、チームの団結力も高めるアイデア絞り込み手法,/中村隆之/,公募/PRD/GD/中辛/□講演形式:ショートセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca0caa56a0b6
-自由に移動できるVRゲームにおけるプレイヤーの誘導、こうやってみました,/永田峰弘/高橋宏典/,公募/AC/GD/中辛/xR/□講演形式:ショートセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca0d52999f49
-シリコンバレー投資家が見た世界のeスポーツトレンド！,/古森泰/,公募/BP/中辛/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca02708587d9
-3Dアバターにおける権利と倫理、開発者が出来る対策,/中地功貴/,公募/BP/甘口/xR/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca0c91a1aeee
-「ゲームのサウンド制御技術」を「インドアプレイグラウンドのサウンド演出」へ応用した事例～屋内・冒険の島ドコドコ/VSPARK(ニゲキル)のサウンド開発について～,/倉持　啓伍/,公募/SND/甘口/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca0cb9bb87d6
-光沢反射面に映りこむ炎と煙の新表現-層化仮想面光源を用いた自己発光ボリュームの実時間大域照明法-,/久家隆宏/谷田川達也/森島繁生/,公募/ENG/辛口/レンダリング/□講演形式:ショートセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca0d43f434ae
-心理的に安全な状況を作り出し、すべてをかき混ぜる方法,/森田和則/,公募/PRD/甘口/□講演形式:ショートセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca0e89f4cbe6
-組織の心理的安全性の確保がもたらす生産性の向上～将来のティール組織を目指して～,/深澤宏仁/片岡洋一朗/,公募/PRD/中辛/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca12150e7ce8
-コンピュータハードウェア技術トレンド,/後藤弘茂/,公募/AC/ENG/辛口/□講演形式:レギュラーセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca13e0e5ece8
+ゲームの、そのさらに先へ-新たな体験の創造に向かって,/水口哲也/,基調講演/甘口/□講演形式:基調講演/□講演時間:09月04日(水)09:45〜11:05/□資料公開:予定なし,https://cedec.cesa.or.jp/2019/session/detail/s5cecf2ed1019e
+ワーママ・ワーパパたちの働き方と悩み／御社の悩みは何ですか？他社はどう解決しているの？,/茂呂真由美/鈴木こずえ/,公募/BP/PRD/甘口/□講演形式:ラウンドテーブル/□講演時間:09月04日(水)11:20〜12:20/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c865fd25a6fb
+フラスタムカリング入門、良いフラスタムの作り方,/本多　圭/,公募/ENG/中辛/□講演形式:チュートリアル/□講演時間:09月04日(水)11:20〜12:20/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9c74958b4fa
+世界のブロックチェーンゲームの動向と第３世代ブロックチェーンを利用したゲーム開発,/和田　隆夫/石田　陽之/,公募/BP/中辛/□講演形式:レギュラーセッション/□講演時間:09月04日(水)11:20〜12:20/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9d7e7be3f60
+情感まで写し取る楽譜転写エンジンの開発とゲームへの応用法,/増野宏之/,公募/SND/ENG/辛口/□講演形式:レギュラーセッション/□講演時間:09月04日(水)11:20〜12:20/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c53dc5d4a27b
+GameServerServicesではじめるサーバー開発運用しないゲーム開発,/丹羽一智/,スポンサー/ENG/中辛/□講演形式:レギュラーセッション/□講演時間:09月04日(水)11:20〜12:20/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce3a89f2da87
+ポータルAR/VRアプリケーションに真のリアリティをもたらす、クロノスのオープンスタンダードAPI:「OpenXR」、「Vulkan」,/ニール・トレベット/大渕栄作/,公募/ENG/中辛/xR/□講演形式:レギュラーセッション/□講演時間:09月04日(水)11:20〜12:20/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca16260dfc4e
+「強い」を作るだけが能じゃない！ディープラーニングで3Dアクションゲームの敵AIを作ってみた,/上段達弘/,公募/ENG/GD/甘口/AI/□講演形式:レギュラーセッション/□講演時間:09月04日(水)11:20〜12:20/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c8f2a755dbc1
+アニメーション制作に役立つ中国武術のバトルモーション,/元梅　幸司/小山　雅晃/山本　智人/,公募/VA/中辛/□講演形式:レギュラーセッション/□講演時間:09月04日(水)11:20〜12:20/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c860c1a8a263
+どんな物語にしたいか共有する〜『エースコンバット7』のナラティブ制作手法〜,/鬼頭　雅英/糸見功輔/,公募/GD/中辛/□講演形式:レギュラーセッション/□講演時間:09月04日(水)11:20〜12:20/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca0df0aa495a
+モバイル通信を使わない近接端末間通信対戦のレシピ,/中村太郎/,公募/ENG/中辛/□講演形式:ショートセッション/□講演時間:09月04日(水)11:20〜11:45/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9f0a31079af
+AR環境におけるより良いフォント選びのガイドラインについて,/キム　ミンヨン/櫻井翔/,スポンサー/GD/AC/中辛/□講演形式:ショートセッション/□講演時間:09月04日(水)11:20〜11:45/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce3a8565befb
+KeeponMoving–ProcessAgilityatBungie／動き続ける-Bungieにおけるプロセスアジャイル,/リンダ・ファン/,海外招待/PRD/辛口/□講演形式:レギュラーセッション/□講演時間:09月04日(水)11:20〜12:20/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ceb77b96361c
+心地よいインタラクティブゲームのための効果的な音楽的演出とその作り方,/武藤昇/,スポンサー/SND/PRD/中辛/□講演形式:レギュラーセッション/□講演時間:09月04日(水)11:20〜12:20/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce393c626d4c
+生データのままで。リアルタイムに分析するならSplunk,/横田聡CISSP/,スポンサー/ENG/甘口/□講演形式:ショートセッション/□講演時間:09月04日(水)11:50〜12:15/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce3b52f998f0
+ブロックチェーンゲーム開発と運用、ブロックチェーンゲーム開発とソーシャルゲーム開発の違い。クリプトダービーの事例,/竹村也哉/,公募/ENG/GD/BP/辛口/□講演形式:レギュラーセッション/□講演時間:09月04日(水)13:30〜14:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c848c9e569b1
+Shadowverseのeスポーツ展開-ゲームがつなぐコミュニティと地域活性化について-,/松本竜也/,公募/BP/中辛/□講演形式:レギュラーセッション/□講演時間:09月04日(水)13:30〜14:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c982d8ab6c09
+プロダクションラウンドテーブル2019,/田口昌宏/今給黎隆/森田和則/,公募/PRD/甘口/□講演形式:ラウンドテーブル/□講演時間:09月04日(水)13:30〜14:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9449d7f3695
+レイ・トレーシングのデータ構造を極める！,/大垣　真二/,公募/ENG/激辛/□講演形式:レギュラーセッション/□講演時間:09月04日(水)13:30〜14:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c63bce679db2
+エースコンバット7VRが実現したエースパイロット体験のひみつ,/山本治由/夛湖久治/,公募/GD/中辛/xR/□講演形式:レギュラーセッション/□講演時間:09月04日(水)13:30〜14:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9ded42d38c7
+UE4でマルチプレイヤーゲームを作ろう,/鈴木　孝司/,スポンサー/ENG/中辛/□講演形式:レギュラーセッション/□講演時間:09月04日(水)13:30〜14:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce39c64c1ca2
+UnityC#×gRPC×サーバーサイドKotlinによる次世代のサーバー/クライアント通信〜ハイパフォーマンスな通信基盤の開発とMagicOnionによるリアルタイム通信の実現〜,/竹端尚人/河合宜文/,公募/ENG/中辛/サーバー/□講演形式:レギュラーセッション/□講演時間:09月04日(水)13:30〜14:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9dede391631
+モバイルゲームのテスト経過を動画にしたらわかりやすくなった,/平岡忠志/,公募/ENG/PRD/辛口/QA/□講演形式:ショートセッション/□講演時間:09月04日(水)13:30〜13:55/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca15b87235e7
+あなたを飛躍的に成長させ会社からも正しく評価される方法,/田村祐樹/,スポンサー/PRD/ENG/辛口/□講演形式:ショートセッション/□講演時間:09月04日(水)13:30〜13:55/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5d1f173a86483
+キャラクターをより魅力的に！ゲーム向けリップシンクミドルウェア,/上田賢次郎/柴田　修作/,スポンサー/ENG/SND/甘口/□講演形式:レギュラーセッション/□講演時間:09月04日(水)13:30〜14:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce392857c2d5
+劇伴における提案型作曲術,/多田彰文/水口盛道/,招待/SND/甘口/□講演形式:レギュラーセッション/□講演時間:09月04日(水)13:30〜14:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cb8343243686
+【講演キャンセル】アニメやゲーム作品におけるGUIデザイン（モニターグラフィックス）のお仕事とは,/吉﨑響/鈴木陽太/,招待/VA/甘口/□講演形式:レギュラーセッション/□講演時間:09月04日(水)13:30〜14:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cb947654a739
+BurstingattheSeams-AnimatingCharactersinBlizzardEntertainment’sHeroesoftheStorm／BlizzardEntertainmentの「HeroesoftheStorm」で、「盛りだくさんの」キャラクターたちをアニメイトする,/ラナ・バシャンスキー/,海外招待/ENG/VA/辛口/□講演形式:レギュラーセッション/□講演時間:09月04日(水)13:30〜14:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cecf427d7bd0
+WebGLで動く2DブラウザゲームをPlayCanvasで作っちゃおう,/津田良太郎/,スポンサー/ENG/PRD/甘口/□講演形式:ワークショップ/□講演時間:09月04日(水)13:30〜14:30/□資料公開:予定なし,https://cedec.cesa.or.jp/2019/session/detail/s5ce3a6a82f37e
+Android向けUnity製ゲーム最適化のためのCI/CDと連携した自動プロファイリングシステム,/細田翔/於保俊/塙与志夫/,公募/ENG/中辛/QA/□講演形式:ショートセッション/□講演時間:09月04日(水)14:00〜14:25/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9cb02154338
+オンラインゲームのレイテンシを極限まで下げる！世界最大規模のプライベートバックボーンとエッジコンピューティングの活用事例,/伊与木基正/,スポンサー/ENG/中辛/□講演形式:ショートセッション/□講演時間:09月04日(水)14:00〜14:25/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cf79831e916a
+ゲームの開発/運営に必要なQAとは～QAの本質・課題・未来について語る～,/堀米賢/小林依光/福永裕幸/佐野あゆみ/,公募/PRD/中辛/QA/□講演形式:パネルディスカッション/□講演時間:09月04日(水)14:50〜15:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c8b094403b6b
+LAMPで構成されたモバイルゲームのバックエンドのKubernetesへの移行事例,/泊　久信/中村裕也/,公募/ENG/中辛/サーバー/□講演形式:レギュラーセッション/□講演時間:09月04日(水)14:50〜15:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9d8a72633ab
+次世代を見据えた新しい補助骨システムの開発,/佐々木　隆典/高木　啓太/,公募/ENG/VA/中辛/□講演形式:レギュラーセッション/□講演時間:09月04日(水)14:50〜15:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9c97cedc6f9
+日々の業務から少しずつ始める！TA育成について話すラウンドテーブル,/清水　宣寿/長谷川翔一/脇田卓/佐藤嵐/中村翔/夏見勇矢/髙河原宏貴/,公募/VA/PRD/甘口/□講演形式:ラウンドテーブル/□講演時間:09月04日(水)14:50〜15:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9e6b8752bba
+物理ベース？アート指向？～尤もらしさと自由度を両立するレンズフレア表現～,/川瀬　正樹/,公募/ENG/VA/辛口/レンダリング/□講演形式:レギュラーセッション/□講演時間:09月04日(水)14:50〜15:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c8f593404a6b
+トランスメディアストーリーテリングから学ぶ「ゲームで物語る」手法2019,/石川淳一/,公募/GD/BP/中辛/□講演形式:レギュラーセッション/□講演時間:09月04日(水)14:50〜15:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9af13996aeb
+「空」と「物語」を演出するためのインタラクティブサウンドデザイン～エースコンバット7における楽曲と効果音実装/VRについて～,/渡辺量/中西哲一/,公募/SND/中辛/xR/□講演形式:レギュラーセッション/□講演時間:09月04日(水)14:50〜15:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca0168e91e2b
+バージョン管理ツールPerforceにおけるファイルの同期・サブミットの仕組みと処理速度の関係,/宮野学/,スポンサー/ENG/甘口/□講演形式:レギュラーセッション/□講演時間:09月04日(水)14:50〜15:50/□資料公開:予定なし,https://cedec.cesa.or.jp/2019/session/detail/s5ce39b95e4294
+MakingToolsforBigGames–Acasestudy／規模の大きいゲーム用にツールを作る-ケーススタディ,/ミヒル・ヴァン・ダー・レゥ/,海外招待/ENG/PRD/辛口/□講演形式:レギュラーセッション/□講演時間:09月04日(水)14:50〜15:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cdcd90cf2413
+心理的に安全な状況を作り出し、すべてをかき混ぜる方法,/森田和則/,公募/PRD/甘口/□講演形式:ショートセッション/□講演時間:09月04日(水)14:50〜15:15/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca0e89f4cbe6
+自動車業界とゲーム業界技術の融合,/小口貴弘/服部陽介/,招待/BP/ENG/中辛/□講演形式:レギュラーセッション/□講演時間:09月04日(水)14:50〜15:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cb80dea61ee3
+WebGLで動く3DブラウザゲームをPlayCanvasで簡単に作っちゃおう！,/宗形修司/,スポンサー/GD/BP/甘口/□講演形式:ワークショップ/□講演時間:09月04日(水)14:50〜15:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce3a6dda9e12
+ゲームを面白くするためのプロセス改善と組織デザイン～最高のコンテンツを実現するためのカイゼンとは～,/金井大/松尾秀一郎/,スポンサー/PRD/ENG/甘口/□講演形式:レギュラーセッション/□講演時間:09月04日(水)14:50〜15:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5d1f17a7d6b27
+ゲーム開発者とゲームメディアの理想の関係とは？,/佐々木悠/平信一/,スポンサー/BP/甘口/□講演形式:レギュラーセッション/□講演時間:09月04日(水)14:50〜15:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce39cd80098a
+スクラムチームでモブプロ！-立ちはだかる導入・運用の壁とその成果-,/横島太志/,公募/PRD/中辛/□講演形式:ショートセッション/□講演時間:09月04日(水)15:20〜15:45/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c8f2a3ba68a6
+Thegraphicof"プロ野球スピリッツ2019"forPS4　～PS4で最大16灯影付きライティング+フルHD(or4K)+60FPS+HDRを実現するまで～,/山口裕也/,公募/ENG/中辛/レンダリング/□講演形式:レギュラーセッション/□講演時間:09月04日(水)16:30〜17:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9c2e29b4f46
+玄人向けAndroid/iOS対応エンジン開発レポート,/佐野　豊/,公募/ENG/激辛/□講演形式:レギュラーセッション/□講演時間:09月04日(水)16:30〜17:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9877b2970eb
+物理マシンでのアセットビルドをやめてみた〜クラウド化の具体的事例と現実的手法〜,/梅木隼/西田綾佑/,公募/PRD/中辛/□講演形式:ショートセッション/□講演時間:09月04日(水)16:30〜16:55/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9b36b80844a
+グランサイファーライド制作事例〜体験型アトラクションはオブジェクトベースのマルチチャンネル音響で攻略せよ！〜,/屋敷貴道/丸山雅之/澤田弘基/,公募/SND/中辛/□講演形式:レギュラーセッション/□講演時間:09月04日(水)16:30〜17:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c98351b2d63b
+PC版特有のQA対応～『MONSTERHUNTER:WORLD』の場合～,/中村敬則/,公募/ENG/PRD/中辛/QA/□講演形式:レギュラーセッション/□講演時間:09月04日(水)16:30〜17:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9e25073128b
+「PressButtonDrink(French)Coffee」UE4におけるビルドパイプラインとメンテナンスの全体像,/アクセル　リファール/,スポンサー/ENG/PRD/中辛/□講演形式:レギュラーセッション/□講演時間:09月04日(水)16:30〜17:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce39c8f82904
+パネルセッション：【VideoGameDevelopmentintheWest:ThePanel】,/ジュリアン・マーセロン/ミヒル・ヴァン・ダー・レゥ/リンダ・ファン/ラナ・バシャンスキー/ロン・ピケット/ディラン・カスバート/,海外招待/ENG/辛口/□講演形式:パネルディスカッション/□講演時間:09月04日(水)16:30〜17:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cdcdfeeb3291
+ゲームUIラウンドテーブル2019,/喜納彬光/荒木竜馬/植田雅生/,公募/VA/中辛/□講演形式:ラウンドテーブル/□講演時間:09月04日(水)16:30〜17:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca063a17deae
+シリコンバレー投資家が見た世界のeスポーツトレンド！,/古森泰/,公募/BP/中辛/□講演形式:レギュラーセッション/□講演時間:09月04日(水)16:30〜17:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca02708587d9
+心理的安全性を高め「気づき」を尊重する生産性の高いチームを目指して～ティール組織・マインドフルネスのチームへの導入の試み～,/深澤宏仁/片岡洋一朗/,公募/PRD/中辛/□講演形式:レギュラーセッション/□講演時間:09月04日(水)16:30〜17:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca12150e7ce8
+アナログゲームの制作に見る、ゲームの面白さとは,/カナイセイジ/菅沼正夫/林尚志/,招待/GD/甘口/□講演形式:レギュラーセッション/□講演時間:09月04日(水)16:30〜17:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cbec2c42b81a
+「リンクスリングス」でのPhoton採用事例および、PhotonCTOによる最新サービスPhotonQuantumの紹介,/萩原竜二/石井岳/二宮　章太/クリストフ・ウェグマン/,スポンサー/ENG/GD/中辛/□講演形式:レギュラーセッション/□講演時間:09月04日(水)16:30〜17:30/□資料公開:予定なし,https://cedec.cesa.or.jp/2019/session/detail/s5ce3b5ae69c98
+ブラックボックステストの自動化による、高品質なテストの実現と自動化部隊の育成,/赤﨑光/奥泉卓也/,公募/PRD/中辛/QA/□講演形式:ショートセッション/□講演時間:09月04日(水)17:00〜17:25/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9de0dfca21a
+エースコンバット7における”空の革新”について,/菅野　昌人/,公募/VA/GD/中辛/□講演形式:レギュラーセッション/□講演時間:09月04日(水)17:50〜18:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9cb6579df11
+あなたのモバイルゲーム開発の最適化時間を数ヶ月節約する方法,/張鑫/,公募/ENG/辛口/QA/□講演形式:レギュラーセッション/□講演時間:09月04日(水)17:50〜18:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9acadae9e7d
+「出来らあっ！！」「え！？ゲーム開発で社会貢献を！？」,/後藤　誠/伊藤　周/,スポンサー/BP/甘口/□講演形式:レギュラーセッション/□講演時間:09月04日(水)17:50〜18:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce3b6e3265c0
+組織的にGamexAIを推進していくための方法論〜『逆転オセロニア』の一歩先へ〜,/田中一樹/岡田健/,スポンサー/ENG/AC/中辛/□講演形式:レギュラーセッション/□講演時間:09月04日(水)17:50〜18:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce39cfb63d84
+内製レンダリングエンジンにおける採用技術と最適化手法,/森下宏樹/小田垣寛樹/,公募/ENG/辛口/レンダリング/□講演形式:レギュラーセッション/□講演時間:09月04日(水)17:50〜18:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9f6c908d5b7
+ルミナス・エンジンへのリアルタイムレイトレーシング実装事例の紹介,/竹重雅也/荒牧岳志/,スポンサー/ENG/PRD/中辛/□講演形式:レギュラーセッション/□講演時間:09月04日(水)17:50〜18:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce39bf17ac37
+SQLライクなUnixパイプライン構文でデータ分析ができるSplunkを体験,/横田聡CISSP/,スポンサー/ENG/甘口/□講演形式:ワークショップ/□講演時間:09月04日(水)17:50〜18:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce3b5740800d
+好きなゲームを作ることをあきらめない。スマホインディーの生存戦略。,/佐藤　大悟/,公募/BP/PRD/中辛/□講演形式:レギュラーセッション/□講演時間:09月04日(水)17:50〜18:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca082784768a
+「ゲームのサウンド制御技術」を「インドアプレイグラウンドのサウンド演出」へ応用した事例～屋内・冒険の島ドコドコ/VSPARK(ニゲキル)のサウンド開発について～,/倉持　啓伍/,公募/SND/甘口/□講演形式:レギュラーセッション/□講演時間:09月04日(水)17:50〜18:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca0cb9bb87d6
+光沢反射面に映りこむ炎と煙の新表現-層化仮想面光源を用いた自己発光ボリュームの実時間大域照明法-,/久家隆宏/谷田川達也/森島繁生/,公募/ENG/辛口/レンダリング/□講演形式:ショートセッション/□講演時間:09月04日(水)17:50〜18:15/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca0d43f434ae
+カルチャードリブンな組織作り〜戦略的に心理的安全性を高める方法〜,/根岸慶/,招待/PRD/甘口/□講演形式:レギュラーセッション/□講演時間:09月04日(水)17:50〜18:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cb816b1763b2
+半年でリリースできる柔軟な動画配信アプリサーバ開発事例,/堀口　真司/鈴木　康士郎/,公募/ENG/辛口/サーバー/□講演形式:レギュラーセッション/□講演時間:09月04日(水)17:50〜18:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9f86770e398
+カナダ市場へ進出:EmbeddedIndustryinEducation-積極的な学生の雇用で開発コスト削減を（VFS&カナダ大使館）,/キャロリナ・マストレッタ/ネッサ・ガウーディオ/,スポンサー/AC/BP/辛口/□講演形式:ショートセッション/□講演時間:09月04日(水)17:50〜18:15/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cf4d442a0b33
+ファンベース　〜これからの時代になぜファンベースが重要か,/佐藤尚之/,招待/BP/甘口/□講演形式:レギュラーセッション/□講演時間:09月04日(水)17:50〜18:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cbb3b816ac0c
+ディープラーニングによる画像処理を実機側で高速に動かし、活用する技術,/竹村　伸太郎/,公募/ENG/AC/中辛/AI/□講演形式:ショートセッション/□講演時間:09月04日(水)18:20〜18:45/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9a015dea39f
+GooglePlayのスマホゲームのセキュリティを高める手法とAPIのご紹介,/松内良介/ロドリゲスオスカル/,スポンサー/ENG/中辛/□講演形式:ショートセッション/□講演時間:09月04日(水)18:20〜18:45/□資料公開:予定なし,https://cedec.cesa.or.jp/2019/session/detail/s5ce3aa7acd508
+カービィチームの開発力を最大化せよ！―内製フレームワークで大事にしたこと―,/中野宏晃/鶴岡友和/野下徹也/,公募/ENG/PRD/中辛/QA/□講演形式:レギュラーセッション/□講演時間:09月05日(木)10:00〜11:00/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9b1c86cc35f
+スマホゲームリリース時に絶対サーバを落とさないための負荷試験,/伊藤英知/,公募/ENG/中辛/サーバー/□講演形式:レギュラーセッション/□講演時間:09月05日(木)10:00〜11:00/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c942b8e1ee5c
+コミュニティのためのゲームづくり～2020年、ポストソーシャルゲーム時代の未来予想図～,/香城卓/,公募/BP/GD/辛口/□講演形式:レギュラーセッション/□講演時間:09月05日(木)10:00〜11:00/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9b73f498400
+ハイエンドキャラクターグラフィックスusingLUMINOUSENGINE,/黒坂　一隆/長谷川勇/蓮尾雄介/岸明彦/,公募/VA/ENG/甘口/□講演形式:レギュラーセッション/□講演時間:09月05日(木)10:00〜11:00/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9db9bda6233
+非サウンド系ツールから攻める！サウンド業務効率化の方法,/金井　琢真/蛭子　一郎/,公募/SND/中辛/□講演形式:レギュラーセッション/□講演時間:09月05日(木)10:00〜11:00/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9c4126901e9
+[JANOG×CEDECコラボセッション]ネットワーク事業者と語るインターネットのゲーム通信,/川上雄也/佐藤元彦/伊藤良哉/中川あきら/,団体招待/ENG/中辛/□講演形式:パネルディスカッション/□講演時間:09月05日(木)10:00〜11:00/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cd41730206fa
+芯（シン）・遅延対策2020～ヒトのスペックから紐解かれる、安定性重視とフレームレートのベストプラクティス～,/森口明彦/,公募/AC/ENG/辛口/□講演形式:レギュラーセッション/□講演時間:09月05日(木)10:00〜11:00/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9e058adee37
+デザイン部署からはじめる働き方デザイン,/今井仁/,スポンサー/PRD/VA/甘口/□講演形式:レギュラーセッション/□講演時間:09月05日(木)10:00〜11:00/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5d1f17032531b
+プロマネ～現場がときめく管理の魔法～　職務経験ゼロから始める開発プロセス改善,/星川　浩子/,公募/PRD/甘口/□講演形式:レギュラーセッション/□講演時間:09月05日(木)10:00〜11:00/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9f5593247e3
+「シェーダーでかんたんにわかる！」DirectXリアルタイムレイトレーシング入門,/鈴木克史/,公募/ENG/甘口/レンダリング/□講演形式:ショートセッション/□講演時間:09月05日(木)10:00〜10:25/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca1602cd1ab5
+Unityではじめるオープンワールド入門　アーティスト編,/大下岳志/山村達彦/,スポンサー/VA/ENG/中辛/□講演形式:レギュラーセッション/□講演時間:09月05日(木)10:00〜11:00/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ceb8ae4b5635
+JustCause4:PhysicsPostmortem／ジャストコーズ4:物理ポストモーテム,/ジャック・ケルナー/,海外招待/ENG/激辛/□講演形式:レギュラーセッション/□講演時間:09月05日(木)10:00〜11:00/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cecf4cec3b5a
+AlibabaCloudで構築するゲーム基盤～対談：なぜマイネット社がAlibabaCloudを選んだのか？～,/有馬茂人/堀越裕樹/佐藤聖賢/,スポンサー/ENG/AC/中辛/□講演形式:レギュラーセッション/□講演時間:09月05日(木)10:00〜11:00/□資料公開:予定なし,https://cedec.cesa.or.jp/2019/session/detail/s5d0aeecf51564
+DirectXRaytracingを用いたライトベイカーの実装について,/多田航/,公募/ENG/辛口/レンダリング/□講演形式:ショートセッション/□講演時間:09月05日(木)10:30〜10:55/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c77a9646f7d3
+REALITY「なりたい自分で、生きていく」リアルタイムライブでVTuberが活躍する舞台を作る現場の1年,/渡邊匡志/白井暁彦/高橋悠/橋本将宏/安川貴志/,公募/BP/VA/中辛/xR/□講演形式:レギュラーセッション/□講演時間:09月05日(木)11:20〜12:20/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9df84045dd1
+DirectX12を使用したシェーダー上への独自ニューラルネットワーク構築と描画品質向上のためのリアルタイムレンダリングへの応用,/増野　健人/,公募/ENG/辛口/AI/レンダリング/□講演形式:レギュラーセッション/□講演時間:09月05日(木)11:20〜12:20/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c906cc0259d8
+リバースエンジニアリングとチート事例から学ぶセキュリティ対策,/國澤佳代/,スポンサー/ENG/甘口/□講演形式:レギュラーセッション/□講演時間:09月05日(木)11:20〜12:20/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce3a91054cde
+ロマサガRSをどのようにクイックにスケールさせたか〜ElixirAmazonECS等の技術要素を交えて〜,/島崎清山/,公募/ENG/辛口/サーバー/□講演形式:ショートセッション/□講演時間:09月05日(木)11:20〜11:45/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c90a59eb5ea7
+音声認識技術を用いたボイス作業時短術,/砂押　知宏/シディークサジャード/,公募/SND/ENG/中辛/AI/□講演形式:レギュラーセッション/□講演時間:09月05日(木)11:20〜12:20/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9c623fc46b5
+MeshEffectShape：2Dカートゥーン調デザインから、その魅力のままにアニメーションする3Dエフェクトメッシュを軽量かつ効率良く作る！,/高橋聡/BrentForrest/松成隆正/,公募/VA/中辛/□講演形式:レギュラーセッション/□講演時間:09月05日(木)11:20〜12:20/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9d9674182f0
+HavokPhysics最新アップデート,/曽良洋介/,スポンサー/ENG/甘口/□講演形式:レギュラーセッション/□講演時間:09月05日(木)11:20〜12:20/□資料公開:予定なし,https://cedec.cesa.or.jp/2019/session/detail/s5ce3b69b32dcd
+[芸術科学会(NICOGRAPH)×CEDECコラボセッション]サウンド×AI×ゲーム,/伊藤彰教/三宅陽一郎/伊藤貴之/江渡浩一郎/,団体招待/ENG/SND/甘口/□講演形式:レギュラーセッション/□講演時間:09月05日(木)11:20〜12:20/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce5f539ba259
+StreaminginTheDivision2／「ディビジョン2」のストリーミング,/カール・ヨハン・カーイェ・レジャース/,海外招待/ENG/辛口/□講演形式:レギュラーセッション/□講演時間:09月05日(木)11:20〜12:20/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cdcd57e48720
+モバイルゲームのテキスト作成術～シナリオ外のテキストで魅せるには？～,/坂本正吾/,公募/GD/甘口/□講演形式:レギュラーセッション/□講演時間:09月05日(木)11:20〜12:20/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9dbbb8dba2d
+エンジニアから見た「カジュアルゲーム」の魅力,/萬野有生/馬場紘弥/矢嶋孝康/田口聖久/,スポンサー/BP/甘口/□講演形式:レギュラーセッション/□講演時間:09月05日(木)11:20〜12:20/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce3a7d023260
+組織にテストを書く文化を根付かせる戦略と戦術,/和田卓人/,招待/PRD/辛口/QA/□講演形式:レギュラーセッション/□講演時間:09月05日(木)11:20〜12:20/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cb96df94c684
+自動運転時代の新たなモビリティーサービスへの挑戦,/左向貴代/,招待/ENG/甘口/□講演形式:レギュラーセッション/□講演時間:09月05日(木)11:20〜12:20/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cbd78e09c660
+Unityではじめるオープンワールド入門　エンジニア編,/山村達彦/大下岳志/,スポンサー/ENG/VA/辛口/□講演形式:レギュラーセッション/□講演時間:09月05日(木)11:20〜12:20/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ceb8b3b98c9d
+Photonでリアルタイムマルチプレイゲームを作ろう！2019年版！①,/萩原竜二/櫟香菜/徐美玉/,スポンサー/ENG/GD/甘口/□講演形式:ワークショップ/□講演時間:09月05日(木)11:20〜12:20/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce3b5eb6d9c2
+SINoALICE-シノアリス-それは必死の「サーバー削減」,/覚張泰幸/,公募/ENG/甘口/サーバー/□講演形式:ショートセッション/□講演時間:09月05日(木)11:50〜12:15/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca04ea19f15b
+『禍つヴァールハイト』モバイルにおけるプレイヤー最大100体同時表示可能なグラフィックス最適化について,/田中　康夫/,公募/ENG/PRD/中辛/□講演形式:レギュラーセッション/□講演時間:09月05日(木)13:30〜14:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9dba3955899
+『TalesofARISE』におけるレンダリング技術と高速化,/小林弘幸/,公募/ENG/VA/辛口/レンダリング/□講演形式:レギュラーセッション/□講演時間:09月05日(木)13:30〜14:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9c5bc2d3123
+『ASTROBOT:RESCUEMISSION』の心地よいキャラクター操作とVRインタラクション,/吉田匠/,公募/ENG/GD/中辛/xR/□講演形式:ショートセッション/□講演時間:09月05日(木)13:30〜13:55/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9cad94d447f
+図・数式・シェーダプログラムで実現するプロジェクションマッピング～「屋内・冒険の島ドコドコ」の事例～,/石井源久/,公募/ENG/AC/辛口/□講演形式:レギュラーセッション/□講演時間:09月05日(木)13:30〜14:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9b433008245
+個性的で魅力的なモンスターを量産するためのデザインの秘訣と開発手法紹介～プリンセスコネクト！Re:Diveにおけるモンスターデザイン制作事例～,/野西　正武/高泰俊/,公募/VA/GD/甘口/□講演形式:レギュラーセッション/□講演時間:09月05日(木)13:30〜14:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c90c0e1e6cdf
+毎週リリースするスマホ向けコンテンツにおける回帰テストの自動化と、テスト結果の可視化を含むテストワークフローの提案,/狩野真次/,公募/PRD/ENG/甘口/QA/□講演形式:レギュラーセッション/□講演時間:09月05日(木)13:30〜14:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9a0c2a0215f
+「1000人で巨大モンスターを狩れ！」サーバソリューションStrixCloudとUnrealEngineでリアルタイム通信レイドバトルをつくろう,/宮永直樹/加藤正彦/,スポンサー/ENG/中辛/□講演形式:レギュラーセッション/□講演時間:09月05日(木)13:30〜14:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce3abc055b6c
+その課題，大学と一緒に解決しませんか？～産学連携・共同研究のススメ～,/吉田　則裕/小川秀人/長谷川勇/,公募/BP/AC/甘口/□講演形式:レギュラーセッション/□講演時間:09月05日(木)13:30〜14:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9d8b102acc2
+地球を守るサウンド制作　～EARTHDEFENSEFORCE:IRONRAINにおけるサウンド実装について～,/田村　幸多郎/斎藤　孝之/,スポンサー/SND/ENG/甘口/□講演形式:レギュラーセッション/□講演時間:09月05日(木)13:30〜14:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce391caae4b8
+ロイヤルユーザーの伸ばし方〜データ・ドリブンが実現するゲーム長命化の秘訣〜,/梅野真也/,公募/BP/中辛/AI/QA/□講演形式:レギュラーセッション/□講演時間:09月05日(木)13:30〜14:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9defa043f4f
+AI「りんな」のボイストレーニング,/坪井一菜/沢田慶/AIりんな/,招待/SND/ENG/甘口/AI/□講演形式:レギュラーセッション/□講演時間:09月05日(木)13:30〜14:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cd911d9d3376
+Unity2018/2019における最適化事情,/黒河優介/,スポンサー/ENG/VA/辛口/□講演形式:レギュラーセッション/□講演時間:09月05日(木)13:30〜14:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ceb8b6cb2e8c
+Editingwithimmutabledata／データを変えない編集,/ロン・ピケット/,海外招待/ENG/辛口/□講演形式:レギュラーセッション/□講演時間:09月05日(木)13:30〜14:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cecf49d1070d
+『ASTROBOT:RESCUEMSSION』の驚きと心地よさを作るVRレベルデザイン,/森田　玄人/,公募/GD/中辛/xR/□講演形式:ショートセッション/□講演時間:09月05日(木)14:00〜14:25/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9d81f9887bf
+こっそり教えます！エフェクトデザインのイ・ロ・ハ,/池田　博幸/,公募/VA/甘口/□講演形式:レギュラーセッション/□講演時間:09月05日(木)14:50〜15:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9874276edbb
+家庭用ゲーム開発におけるゲームエディタの基礎設計と、安定かつ高速なアセット管理について,/多田航/,公募/ENG/PRD/中辛/QA/□講演形式:レギュラーセッション/□講演時間:09月05日(木)14:50〜15:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c6542b7f0d86
+Shadowverse流開発手法～QAコスト削減と堅牢性強化を実現するプランナーによるテスト駆動開発～,/柴田有輝/鄒一舟/,公募/PRD/ENG/辛口/QA/□講演形式:レギュラーセッション/□講演時間:09月05日(木)14:50〜15:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c904de8993a9
+感性をAI化！？サウンドデザインへのAI活用法とその未来-SURROUND:AIにおける適用事例-,/藤澤森茂/湯山雄太/,公募/SND/ENG/中辛/AI/□講演形式:レギュラーセッション/□講演時間:09月05日(木)14:50〜15:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9d84ff15f36
+ディファードレンダリング上で表現するアニメルックの追求とその手法,/芦塚慧祐/,公募/ENG/VA/辛口/レンダリング/□講演形式:レギュラーセッション/□講演時間:09月05日(木)14:50〜15:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca0ca2f6762f
+パネルセッション：【VideoGameTechnologyintheWest:ThePanel】,/ジュリアン・マーセロン/カール・ヨハン・カーイェ・レジャース/ミヒル・ヴァン・ダー・レゥ/ロン・ピケット/ジャック・ケルナー/ジェローム・リアー/,海外招待/ENG/辛口/□講演形式:パネルディスカッション/□講演時間:09月05日(木)14:50〜15:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cdcdf5f24ba8
+ビジネスインパクトのためのオンラインゲームデータ分析,/松浦遼/山田悟史/西田幸平/原拓自/,スポンサー/BP/GD/辛口/□講演形式:レギュラーセッション/□講演時間:09月05日(木)14:50〜15:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce49e0f2daf7
+デジタルマーケターの広告不正（アドフラウド）への向き合い方,/森下明/,公募/BP/辛口/□講演形式:レギュラーセッション/□講演時間:09月05日(木)14:50〜15:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca0bc6532932
+自由に移動できるVRゲームにおけるプレイヤーの誘導、こうやってみました,/永田峰弘/高橋宏典/,公募/AC/GD/中辛/xR/□講演形式:ショートセッション/□講演時間:09月05日(木)14:50〜15:15/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca0d52999f49
+【対談】一流クリエイターに聞く、魅力的なキャラクターを生み出す秘訣とは！？,/鈴木みそ/塗和也/石渡太輔/,招待/VA/甘口/□講演形式:レギュラーセッション/□講演時間:09月05日(木)14:50〜15:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cb9416f6c3fd
+コロプラの開発中タイトル事例　〜Unity最新技術でコンソール級のモバイルゲームを実現〜,/荒木和也/黒河優介/,スポンサー/ENG/VA/辛口/□講演形式:レギュラーセッション/□講演時間:09月05日(木)14:50〜15:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ceb8b998ed1e
+実践PlayCanvas-WebGLゲームエンジンPlayCanvasを使って、ウェブサイト向けのゲームの開発をして、実際に公開するまでの流れを体験しよう！,/羽賀流登/,スポンサー/ENG/PRD/甘口/□講演形式:ワークショップ/□講演時間:09月05日(木)14:50〜15:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce3b63a042bd
+ゲーム開発におけるスクラムのすゝめ～失敗は成功のもと～,/畠山彰秀/,スポンサー/ENG/甘口/□講演形式:ショートセッション/□講演時間:09月05日(木)14:50〜15:15/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5d1f175f53606
+『GameSynth2019.2』～サウンド・ゲーム・アニメクリエイター達のために、さらに進化した最新機能をご紹介！～,/ニコラスフールネル/,スポンサー/SND/甘口/□講演形式:ショートセッション/□講演時間:09月05日(木)15:20〜15:45/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce3937748bc5
+「宇宙x教育xVR＝ちゃんと学べる体感サイエンスツアー「ありえなLAB」の挑戦,/渡邉賢/白井暁彦/原田考多/,公募/BP/中辛/xR/□講演形式:ショートセッション/□講演時間:09月05日(木)15:20〜15:45/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9c660d3c16c
+大規模開発のためのLUMINOUSENGINEのログ分析と自動テスト,/岩崎浩/,公募/PRD/ENG/辛口/サーバー/QA/□講演形式:レギュラーセッション/□講演時間:09月05日(木)16:30〜17:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c997640a2932
+ニューラルネットワークを用いた音声信号によるリップシンク（口パク生成）技術,/押見正雄/飯島健太/上田賢次郎/,公募/SND/ENG/中辛/AI/□講演形式:レギュラーセッション/□講演時間:09月05日(木)16:30〜17:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c99c80682572
+『逆転オセロニア』における、機械学習モデルを用いたデッキのアーキタイプ抽出とゲーム運用への活用,/安達　涼/岩城惇/,公募/GD/ENG/中辛/AI/□講演形式:レギュラーセッション/□講演時間:09月05日(木)16:30〜17:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9db47c3aad3
+AroundtheWorldinYourPajamas:TheArtofRunningaVirtualGameStudio／パジャマのままで世界中へ:バーチャルゲームスタジオ運営の技術,/クリストファー・ナツウメ/,公募/BP/辛口/□講演形式:ショートセッション/□講演時間:09月05日(木)16:30〜16:55/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c997a5b634ef
+「現場最優先のススメ」～最高の開発環境を生み出す情報システム部門の在り方～,/平内義彦/,公募/BP/中辛/□講演形式:ショートセッション/□講演時間:09月05日(木)16:30〜16:55/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c8f65bb36394
+GPU最適化：シェーダ実行の高速化手法,/石渡竜也/,公募/ENG/中辛/□講演形式:レギュラーセッション/□講演時間:09月05日(木)16:30〜17:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9e9e51afd59
+アストロボット、アートの仕事-TheartofASTROBOT:RESCUEMISSION-,/藤井康裕/,公募/VA/中辛/xR/□講演形式:レギュラーセッション/□講演時間:09月05日(木)16:30〜17:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9f93d548456
+品質と開発スピードの両立と、OSSのリスク低減策のご紹介,/吉井雅人/土谷宜広/,スポンサー/ENG/中辛/□講演形式:レギュラーセッション/□講演時間:09月05日(木)16:30〜17:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce3a80b1a523
+OPTPiXSpriteStudioVer.6.3～改良されたボーン・メッシュ・デフォームシステムを体験しよう,/浅井維新/池田陽朗/,スポンサー/VA/甘口/□講演形式:ワークショップ/□講演時間:09月05日(木)16:30〜17:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce39329c2461
+深層学習がもたらす映像創作支援のための研究イノベーション,/森島繁生/,招待/AC/ENG/甘口/□講演形式:レギュラーセッション/□講演時間:09月05日(木)16:30〜17:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cd20c58862b6
+CLIPSTUDIOPAINTによるビジュアルデザイン事例,/武田暁雄/飯田隼一/森田柚香/鍛治健人/,スポンサー/VA/甘口/□講演形式:レギュラーセッション/□講演時間:09月05日(木)16:30〜17:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce3b7b7750ac
+Unity2019年注目機能まとめ,/大前広樹/京野光平a.k.antny/,スポンサー/PRD/甘口/□講演形式:レギュラーセッション/□講演時間:09月05日(木)16:30〜17:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ceb8ab18e872
+ゲームと音楽の世界におけるパーソナライズされた空間オーディオ/PersonalizedSpatialAudioinGamingandMusic,/マリエル・ヤコブソン/,スポンサー/SND/中辛/□講演形式:レギュラーセッション/□講演時間:09月05日(木)16:30〜17:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cef7d8bb745a
+チームの力でアイデアを絞り込む！メンバーが納得できる最適なアイデアを選ぶだけでなく、チームの団結力も高めるアイデア絞り込み手法,/中村隆之/,公募/PRD/GD/中辛/□講演形式:ショートセッション/□講演時間:09月05日(木)17:00〜17:25/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca0caa56a0b6
+AIの諸問題に対する日本語的アプローチ,/中島秀之/,基調講演/甘口/□講演形式:基調講演/□講演時間:09月06日(金)09:45〜11:05/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce74ea9de76a
+『大乱闘スマッシュブラザーズSPECIAL』～3Dグラフィックスの絵作り,/池沢宇功/谷口幸宏/中村義朗/,公募/VA/甘口/レンダリング/□講演形式:レギュラーセッション/□講演時間:09月06日(金)11:20〜12:20/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9a0584cb33d
+ゲームと機械学習の最前線　〜現状と未来を正しく捉えるために〜,/奥村純/長谷洋平/三宅陽一郎/,公募/ENG/BP/AC/中辛/AI/□講演形式:パネルディスカッション/□講演時間:09月06日(金)11:20〜12:20/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9b199a29c68
+プロシージャルオーディオのゲーム効果音への活用,/ニコラスフールネル/,公募/SND/辛口/□講演形式:レギュラーセッション/□講演時間:09月06日(金)11:20〜12:20/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9da88f37bfc
+プリンセスコネクト！Re:Dive運用事例～リリースの高頻度化と安定化を両立させるプリコネRの運用体制～,/冨田康之/,公募/PRD/ENG/中辛/□講演形式:レギュラーセッション/□講演時間:09月06日(金)11:20〜12:20/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c947b2f8e183
+リアルタイムレイトレーシングの導入と最適化事例,/川名勇気/,公募/ENG/辛口/レンダリング/□講演形式:レギュラーセッション/□講演時間:09月06日(金)11:20〜12:20/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9d78b0e6f2b
+リアルとバーチャルの融合がもたらす未来の乗車体験のビジョン／実験／考察,/原　真人/上田　哲郎/,公募/ENG/AC/甘口/xR/□講演形式:レギュラーセッション/□講演時間:09月06日(金)11:20〜12:20/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9ad0032980b
+5Gでゲームはどう変わる？～そろそろ気にしておきたい5G最前線～,/本間俊介/石塚広樹/春日秀之/,招待/ENG/BP/甘口/サーバー/□講演形式:レギュラーセッション/□講演時間:09月06日(金)11:20〜12:20/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cbe7e6470aea
+DefenseofUnityGames,/長尾豊/,スポンサー/ENG/中辛/□講演形式:ショートセッション/□講演時間:09月06日(金)11:20〜11:45/□資料公開:予定なし,https://cedec.cesa.or.jp/2019/session/detail/s5ce3a7897507e
+現代の子供たちが「勉強をゲームのように楽しくできる」未来へ,/鈴木優伯/,招待/GD/BP/甘口/□講演形式:レギュラーセッション/□講演時間:09月06日(金)11:20〜12:20/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cda2324b504d
+ワークライフバランスを充実させよう！アラフィフエンジニアの皆さんに贈る地域貢献のススメ。,/志磨雅則/,公募/BP/甘口/□講演形式:レギュラーセッション/□講演時間:09月06日(金)11:20〜12:20/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9e2df105b7d
+SIE「toio（トイオ）」で拡がるロボットトイの世界,/田中章愛/八重田岳/,スポンサー/ENG/AC/甘口/□講演形式:レギュラーセッション/□講演時間:09月06日(金)11:20〜12:20/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ceb8c0d3a2db
+スマホゲーム「10年継続」を見据える運営術～運営60本超えのマイネットが掲げる“PARADE“とは？～,/上原仁/,スポンサー/BP/中辛/□講演形式:レギュラーセッション/□講演時間:09月06日(金)11:20〜12:20/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce49ea9a5c0e
+PlayCanvas:Webをもっと身近に！ゲーム資産をWebGLで活かす,/津田良太郎/宗形修司/城戸雄大/,スポンサー/ENG/BP/甘口/□講演形式:ショートセッション/□講演時間:09月06日(金)11:50〜12:15/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce3a6704c667
+AAAタイトル開発における、ハイエンドオーディオ制作技術の研究成果と取り組み事例,/牧村亮治/安井裕一/久保早瑠菜/,公募/SND/辛口/□講演形式:レギュラーセッション/□講演時間:09月06日(金)13:30〜14:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c983c37007bf
+『大乱闘スマッシュブラザーズSPECIAL』～お借りしたIPをできるだけ綺麗に描くために,/岩永欣仁/鈴木雅幸/,公募/ENG/VA/中辛/レンダリング/□講演形式:レギュラーセッション/□講演時間:09月06日(金)13:30〜14:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c99cd36e5d17
+プロシージャルゲームコンテンツ制作ブートキャンプ2019Part1バリエーション生成,/多喜建一/齋藤彰/山部道義/永友瑛里子/,公募/VA/PRD/中辛/□講演形式:レギュラーセッション/□講演時間:09月06日(金)13:30〜14:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9c3b18b187c
+BLUEPROTOCOLの個性豊かなキャラクターを動かす意思決定システム,/長谷洋平/,公募/ENG/中辛/AI/□講演形式:レギュラーセッション/□講演時間:09月06日(金)13:30〜14:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9a183f96ff9
+GamesasaServiceモデルに適応するコンテンツ配信量削減手法と、PlayStation®4における配信量削減実績,/畠山明之/,公募/ENG/辛口/□講演形式:レギュラーセッション/□講演時間:09月06日(金)13:30〜14:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9d9d4e3ef36
+Mirrativアプリ開発における、理想のユーザー体験実現に向けたアプローチ,/夏澄彦/,スポンサー/ENG/BP/甘口/□講演形式:レギュラーセッション/□講演時間:09月06日(金)13:30〜14:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce3b79c81686
+5G時代に対応した『モノビットエンジン5G』を初公開！HoloLens対応した通信クラウド最新情報も！,/中嶋謙互/安田京人/,スポンサー/ENG/甘口/□講演形式:レギュラーセッション/□講演時間:09月06日(金)13:30〜14:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5d03309b7c514
+印象的なVRストーリーを作るにはユーザーエンゲージメントを最大限にせよ:「結婚指輪物語VR」からのテクニック,/曹　家栄/,公募/VA/辛口/xR/□講演形式:レギュラーセッション/□講演時間:09月06日(金)13:30〜14:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca156d261162
+ミリシタ運営術！！,/池田早人/保科一成/佐々木克/,公募/PRD/ENG/中辛/サーバー/QA/□講演形式:レギュラーセッション/□講演時間:09月06日(金)13:30〜14:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9ee5702b83c
+サービス終了寸前だったタイトルが、CMを使わずにDAUを増やして九死に一生を得たSNSプロモーション術,/ナカムラ　ケンタロウ/,公募/BP/甘口/□講演形式:レギュラーセッション/□講演時間:09月06日(金)13:30〜14:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca0b7d0e3310
+超人スポーツ：超人を創る・超人として遊ぶ,/稲見昌彦/,招待/AC/甘口/□講演形式:レギュラーセッション/□講演時間:09月06日(金)13:30〜14:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ccc2212c2780
+チート行為を未然に防ぐゲームセキュリティ診断のススメ,/松田和樹/,スポンサー/ENG/辛口/□講演形式:レギュラーセッション/□講演時間:09月06日(金)13:30〜14:30/□資料公開:予定なし,https://cedec.cesa.or.jp/2019/session/detail/s5ce49e4ce62ce
+PlayCanvasで3D空間を使った簡単webサイトを作ってみる,/城戸雄大/,スポンサー/ENG/甘口/□講演形式:ワークショップ/□講演時間:09月06日(金)13:30〜14:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce3a71c1688f
+『大乱闘スマッシュブラザーズSPECIAL』～大規模開発を支えた開発環境の整備と運用,/篠崎旭/中村彰宏/南相培/,公募/PRD/ENG/中辛/QA/□講演形式:レギュラーセッション/□講演時間:09月06日(金)14:50〜15:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9b5851a5fe3
+アナザーエデン/日本でコンテンツ開発を継続しつつ、海外でリリースするためにしてきたこと,/西田綾佑/長谷川彦/,公募/BP/甘口/□講演形式:レギュラーセッション/□講演時間:09月06日(金)14:50〜15:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9ae6aaa5783
+現実が主役！未来のリアルワールドエンターテインメントにむけた挑戦,/本山　博文/岩田永司/,公募/GD/ENG/中辛/xR/□講演形式:レギュラーセッション/□講演時間:09月06日(金)14:50〜15:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9da3199fbf5
+ゲーム開発におけるOSSライセンス管理の実際(パネルディスカッション),/吉井雅人/樽見俊明/山中勇毅/森昌二/忍頂寺毅/,公募/BP/ENG/辛口/□講演形式:パネルディスカッション/□講演時間:09月06日(金)14:50〜15:50/□資料公開:予定なし,https://cedec.cesa.or.jp/2019/session/detail/s5c9ae4b13c986
+プロシージャルゲームコンテンツ制作ブートキャンプ2019Part2機械学習,/多喜建一/岸川貴紀/堀川淳一郎/,公募/VA/ENG/PRD/中辛/AI/□講演形式:レギュラーセッション/□講演時間:09月06日(金)14:50〜15:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9c3c8c9a39d
+感情を揺さぶるメタAI～ゲームへの実装方法とバランス調整への応用事例～,/里井大輝/,公募/ENG/GD/甘口/AI/QA/□講演形式:レギュラーセッション/□講演時間:09月06日(金)14:50〜15:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c986cec55f60
+沢山集まれ文殊の知恵！フォーリー収録・活用座談会,/北村　一樹/金子　智充/渡辺　寛志/進藤美咲/照田明弘/谷口広紀/,公募/SND/甘口/□講演形式:パネルディスカッション/□講演時間:09月06日(金)14:50〜15:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9dde8c8465d
+モバイルゲーム開発を効率化する基盤の開発事例を、失敗事例も含めて紹介〜過去5年間で開発した基盤の全て〜,/石黒祐輔/,公募/ENG/PRD/中辛/サーバー/□講演形式:レギュラーセッション/□講演時間:09月06日(金)14:50〜15:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca0f3b616931
+CLIPSTUDIOPAINTでのディープラーニング活用事例とAIフレームワークailiaSDKの紹介,/品部仁志/片岡猛/,スポンサー/VA/ENG/中辛/□講演形式:レギュラーセッション/□講演時間:09月06日(金)14:50〜15:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce49d69e89c5
+JupyterNotebookが変える、あなたのチームの運用作業,/長久勝/,公募/ENG/PRD/辛口/□講演形式:レギュラーセッション/□講演時間:09月06日(金)14:50〜15:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9f1002670d8
+シリコンスタジオで開発中のMizuchiforDCCToolについて,/辻　俊晶/河野　駿介/,スポンサー/ENG/VA/中辛/□講演形式:レギュラーセッション/□講演時間:09月06日(金)14:50〜15:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce3a5ed72ce5
+視聴者を参加者にしてしまう技術:トーナメント実況編,/中嶋謙互/,スポンサー/ENG/BP/甘口/□講演形式:レギュラーセッション/□講演時間:09月06日(金)14:50〜15:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5d0c775248b30
+Photonでリアルタイムマルチプレイゲームを作ろう！2019年版！②,/櫟香菜/萩原竜二/徐美玉/,スポンサー/ENG/GD/甘口/□講演形式:ワークショップ/□講演時間:09月06日(金)14:50〜15:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce3b6150b8a9
+フォトグラメトリーとプロシージャルを用いた最新ハイエンドゲーム3DCG背景制作手法～ハイエンドゲーム開発の経験がない会社がいかにしてそれらを生み出したか～,/吉冨直隆/,公募/VA/中辛/□講演形式:レギュラーセッション/□講演時間:09月06日(金)16:30〜17:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c90bc97ca347
+『大乱闘スマッシュブラザーズSPECIAL』～膨大なアセットのビルド時間＆容量との戦い,/中村彰宏/南相培/,公募/ENG/PRD/中辛/□講演形式:レギュラーセッション/□講演時間:09月06日(金)16:30〜17:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9b0f38387a7
+大規模モバイルゲーム運用におけるマスタデータ管理事例,/人西聖樹/,公募/PRD/辛口/□講演形式:レギュラーセッション/□講演時間:09月06日(金)16:30〜17:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c7f93801888e
+特許出願およびオンライン雑誌記事からみる電子ゲーム技術開発動向　～特許出願の動向から見る日本の強みと弱み～,/上田　泰/,招待/BP/ENG/中辛/□講演形式:レギュラーセッション/□講演時間:09月06日(金)16:30〜17:30/□資料公開:予定なし,https://cedec.cesa.or.jp/2019/session/detail/s5c889b85ed3c1
+AIは自分でボードゲームの勝ち方を見つけられるか？,/森川幸人/松原卓二/成沢理恵/,公募/GD/中辛/AI/□講演形式:レギュラーセッション/□講演時間:09月06日(金)16:30〜17:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c99018b7ac24
+『描画が出来る人』ってどうやって育てればいいんだろう？～描画エンジニア育成プロジェクトポストモーテム,/奥田雅史/川名勇気/落合仁美子/二階堂将也/,公募/PRD/甘口/□講演形式:レギュラーセッション/□講演時間:09月06日(金)16:30〜17:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9d8f6232ba1
+『LEFTALIVE』における地形表現とナビゲーションAI,/長谷川　誠/,公募/ENG/中辛/AI/□講演形式:レギュラーセッション/□講演時間:09月06日(金)16:30〜17:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9f339a5b28a
+画像データを美しいまま圧縮！完全再構成されたOPTPiXImageStudio8の新UIと効果,/小野知之/浅井維新/,スポンサー/PRD/VA/甘口/□講演形式:レギュラーセッション/□講演時間:09月06日(金)16:30〜17:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce392f9a39e1
+WebXRの現状と実社会への応用事例,/諸星一行/,公募/BP/ENG/甘口/xR/□講演形式:レギュラーセッション/□講演時間:09月06日(金)16:30〜17:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca0e78baa620
+[AES(AudioEngineeringSociety)×CEDECコラボセッション]イマーシブオーディオ,/濱﨑公男/岸智也/染谷和孝/,団体招待/SND/甘口/□講演形式:レギュラーセッション/□講演時間:09月06日(金)16:30〜17:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cd29441ce683
+AWSによるゲームデータ分析ハンズオン(QuickSight/AthenaによるKPIダッシュボードを作ろう),/三上卓也/,スポンサー/ENG/AC/甘口/□講演形式:ワークショップ/□講演時間:09月06日(金)16:30〜17:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce3946e2adcd
+IPタイトルを成功させる3つの視点〜ライセンス・プロモーション・プロデュース〜『ダンまち〜メモリア・フレーゼ〜』の事例,/野澤武人/小泉義英/武田豊/,スポンサー/BP/中辛/□講演形式:レギュラーセッション/□講演時間:09月06日(金)16:30〜17:30/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce49cd14eb39
+『大乱闘スマッシュブラザーズSPECIAL』～サウンド開発における「膨大な物量vsスペシャルクォリティ」,/中鶴　潤一/,公募/SND/甘口/□講演形式:レギュラーセッション/□講演時間:09月06日(金)17:50〜18:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9b67249de46
+FFXIVコンテンツ製作を支える表データ管理システム　–NEX–,/吉田　和人/,公募/ENG/辛口/□講演形式:レギュラーセッション/□講演時間:09月06日(金)17:50〜18:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9c20c172451
+AWSマネージドサービスによるアーケード向けログ収集基盤のサーバレス化～設計・開発から移行まで～,/青木哲郎/,公募/ENG/中辛/サーバー/□講演形式:レギュラーセッション/□講演時間:09月06日(金)17:50〜18:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c99aab98f733
+機械学習ベースの自動プレイエージェントを用いたバランス設計効率化の追求,/福沢嘉琳/森田想平/,公募/PRD/GD/中辛/AI/QA/□講演形式:レギュラーセッション/□講演時間:09月06日(金)17:50〜18:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c989964626e1
+SEKIRO:SHADOWSDIETWICEとDéracinéにおけるBinkビデオとOodleデータ圧縮の導入事例,/瀧田航一朗/阿部剛寿/,スポンサー/ENG/PRD/甘口/□講演形式:ショートセッション/□講演時間:09月06日(金)17:50〜18:15/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce39d564f6cf
+PERACON2019,/遠藤雅伸/三上浩司/簗瀬洋平/馬場保仁/沼崎優介/戀津魁/,公募/GD/甘口/□講演形式:CEDECCHALLENGE/□講演時間:09月06日(金)17:50〜18:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9d878308026
+AIにゲームをデバッグさせることは出来るのか？〜ゲームAI専門会社モリカトロンの挑戦〜,/本城　嘉太郎/,スポンサー/ENG/PRD/中辛/□講演形式:レギュラーセッション/□講演時間:09月06日(金)17:50〜18:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5d1c06b2116c4
+コンピュータハードウェア技術トレンド,/後藤弘茂/,公募/AC/ENG/辛口/□講演形式:レギュラーセッション/□講演時間:09月06日(金)17:50〜18:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca13e0e5ece8
+AIにだって心はある！音声を使ったインタラクションで感情を持ったキャラクターAIと遊ぼう！,/ボエダ　ゴティエ/,公募/ENG/中辛/AI/□講演形式:レギュラーセッション/□講演時間:09月06日(金)17:50〜18:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9dce8508572
+3Dアバターにおける権利と倫理、開発者が出来る対策,/中地功貴/,公募/BP/甘口/xR/□講演形式:レギュラーセッション/□講演時間:09月06日(金)17:50〜18:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca0c91a1aeee
+ブロックチェーン技術を活用してデジタルコンテンツに証明書を付与する「Atrust」がもたらすコンテンツ流通の新しい形,/石田陽之/,スポンサー/ENG/甘口/□講演形式:レギュラーセッション/□講演時間:09月06日(金)17:50〜18:50/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5d1c74ffdb66d
+Markdownを使ったドキュメントサイト構築,/米倉裕基/殿岡理恵/,スポンサー/PRD/中辛/□講演形式:ショートセッション/□講演時間:09月06日(金)18:20〜18:45/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ce3b73908f8d
+GoogleMapsPlatform最新活用事例〜『妖怪ウォッチワールド』の開発で学んだリアルワールドゲームの作り方〜,/丸山智康/昇耕一/,スポンサー/BP/ENG/甘口/□講演形式:レギュラーセッション/□資料公開:予定なし,https://cedec.cesa.or.jp/2019/session/detail/s5ce3aa38b9028
+バンドリ！ガールズバンドパーティ！を支える開発・運用のしくみ,/井上　順行/佐藤　崇徳/,スポンサー/PRD/中辛/□講演形式:レギュラーセッション/□資料公開:予定なし,https://cedec.cesa.or.jp/2019/session/detail/s5ce49d08a52a0
+GoogleforGames-WhyGoogle?WhyGoogleCloud?,/和泉綾志/,スポンサー/ENG/辛口/□講演形式:レギュラーセッション/□資料公開:予定なし,https://cedec.cesa.or.jp/2019/session/detail/s5ce3aa0bd8a16
+CraftEggがつくるユーザーファーストを実現する組織,/森川　修一/村上　徹/,スポンサー/BP/甘口/□講演形式:レギュラーセッション/□資料公開:予定なし,https://cedec.cesa.or.jp/2019/session/detail/s5ce49d3553e1b
+表面部と内部で異なるテクスチャを持つ地形マップ用タイルセットの合成,/原田大輝/,公募/AC/ENG/中辛/□講演形式:インタラクティブセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9b74e27b58e
 錯覚的に触覚体験を生起させるaudio-visualな表現方法と，錯覚体験の個人差を軽減するインタラクションシステム,/平尾　悠太朗/,公募/AC/ENG/甘口/xR/□講演形式:インタラクティブセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c81f2734dc59
+演技サポート！ギフトが当たると勝手に動くVTuberアバター,/杉森健/三武裕玄/佐藤裕仁/小栗賢章/長谷川晶一/,公募/ENG/BP/甘口/xR/□講演形式:インタラクティブセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9399344d781
+セガ／タイトー／ナムコ　ビデオゲーム黎明期を切り拓いた各社の開発資料展示,/兵藤岳史/岸本好弘/,公募/BP/AC/甘口/□講演形式:インタラクティブセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9c52d357a09
+さながら現実！自由に視聴点を変えられるVR用立体音響技術,/坂本　大地/大川直紀/秋山かほり/,公募/SND/AC/甘口/xR/□講演形式:インタラクティブセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca0cc794badc
 もっとアニメーション制作に役立つ中国武術のバトルモーション道場,/元梅　幸司/小山　雅晃/山本　智人/,公募/VA/中辛/□講演形式:インタラクティブセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c86135b0100b
+特別支援学級における発達障害児のためのゲームデザイン研究事例,/松隈浩之/荻原祐介/白石大紀/,公募/AC/BP/甘口/□講演形式:インタラクティブセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c99eb701fe37
+音声合成を用いるインタラクティブなキャラクター,/シディークサジャード/ニコラスフールネル/ボエダ　ゴティエ/,公募/SND/甘口/AI/□講演形式:インタラクティブセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9dd475b3b2c
+変わったコントローラーによる新しい遊びの体験,/宮澤　卓宏/中野　亘/,公募/GD/甘口/□講演形式:インタラクティブセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9ecca9e1ef9
+空間的・社会的な存在感のあるインタラクティブキャラクタサイネージ,/三武裕玄/杉森健/佐藤裕仁/小栗賢章/長谷川晶一/,公募/ENG/AC/甘口/□講演形式:インタラクティブセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca0bf89a0a74
+未来のエンタテインメントを見据えた「ゲーム機をデザインする」教育,/橋本直/簗瀬洋平/,公募/GD/AC/甘口/□講演形式:インタラクティブセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca0dce341b9a
 「見えないものを可視化」する「Invisible-to-Visible（I2V）」,/上田　哲郎/,招待/ENG/甘口/□講演形式:インタラクティブセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cc11ce2a27e6
 メタリム：第三・第四の腕を用いた身体性編集,/稲見昌彦/佐々木智也/,招待/AC/甘口/□講演形式:インタラクティブセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cc27ecd2dd34
-演技サポート！ギフトが当たると勝手に動くVTuberアバター,/杉森健/佐藤裕仁/三武裕玄/小栗賢章/長谷川晶一/,公募/ENG/BP/甘口/xR/□講演形式:インタラクティブセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9399344d781
-[IVRC×CEDECコラボセッション]ブレインツリー,/西川尚志/椎名星歩/,団体招待/AC/甘口/□講演形式:インタラクティブセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cd2c7da0d858
-特別支援学級における発達障害児のためのゲームデザイン研究事例,/松隈浩之/荻原祐介/白石大紀/,公募/AC/BP/甘口/□講演形式:インタラクティブセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c99eb701fe37
-表面部と内部で異なるテクスチャを持つ地形マップ用タイルセットの合成,/原田大輝/,公募/AC/ENG/中辛/□講演形式:インタラクティブセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9b74e27b58e
-セガ／タイトー／ナムコ　ビデオゲーム黎明期を切り拓いた各社の開発資料展示,/兵藤岳史/岸本好弘/,公募/BP/AC/甘口/□講演形式:インタラクティブセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9c52d357a09
-音声合成を用いるインタラクティブなキャラクター,/シディークサジャード/ボエダ　ゴティエ/ニコラスフールネル/,公募/SND/甘口/AI/□講演形式:インタラクティブセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9dd475b3b2c
-変わったコントローラーによる新しい遊びの体験,/宮澤　卓宏/中野　亘/,公募/GD/甘口/□講演形式:インタラクティブセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9ecca9e1ef9
 選んだ相手だけに目が合う平面ディスプレイ,/三武裕玄/一居太朗/立石和也/長谷川晶一/,公募/AC/ENG/甘口/□講演形式:インタラクティブセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5c9f8232e7285
-さながら現実！自由に視聴点を変えられるVR用立体音響技術,/坂本　大地/大川直紀/秋山かほり/,公募/SND/AC/甘口/xR/□講演形式:インタラクティブセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca0cc794badc
 コンピュータで似顔絵を描く　～顔の特徴や印象の抽出と描画そして応用まで～,/岡島　英号/金子正秀/小出昌弘/,公募/AC/VA/甘口/AI/□講演形式:インタラクティブセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca07d8db2708
-空間的・社会的な存在感のあるインタラクティブキャラクタサイネージ,/三武裕玄/佐藤裕仁/杉森健/小栗賢章/長谷川晶一/,公募/ENG/AC/甘口/□講演形式:インタラクティブセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca0bf89a0a74
-未来のエンタテインメントを見据えた「ゲーム機をデザインする」教育,/橋本直/簗瀬洋平/,公募/GD/AC/甘口/□講演形式:インタラクティブセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5ca0dce341b9a
+[IVRC×CEDECコラボセッション]ブレインツリー,/西川尚志/椎名星歩/,団体招待/AC/甘口/□講演形式:インタラクティブセッション/□資料公開:予定あり,https://cedec.cesa.or.jp/2019/session/detail/s5cd2c7da0d858

@@ -9,7 +9,7 @@ def news
 
     {
       title: node.xpath('./div[@class="session-title"]').inner_text.gsub(/[\r\n ,]/, ""),
-      speaker: node.xpath('.//div[@class="speaker_info"]/div[@class="name"]').inner_text.gsub(/[\r ,]/, "").gsub(/\n+/, "/"),
+      speaker: node.xpath('.//div[@class="media-body"]/div[@class="name"]').inner_text.gsub(/[\r ,]/, "").gsub(/\n+/, "/"),
       meta: meta_info,
       url: node.xpath('.//a[@class="d-inline-block btn-elinvar-detail"]').attribute("href").text
     }
